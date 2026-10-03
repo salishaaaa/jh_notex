@@ -1,8 +1,12 @@
 :root{
     --cream: #fff8ef;
-    --peach: #f7d9c4;
-    --brown: #c9a66b;
-    --darkbrown: #a67c53;
+    --peach: #f6c7a8;
+    --light-peach: #fde5d5;
+    --brown: #5a3825;
+    --dark-brown: #352219;
+    --text:#594b43;
+    --white:#594b43;
+    --border:#ead9ca;
 
 }
 header{
