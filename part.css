@@ -34,5 +34,10 @@ header{
     background-color: var(--cream);
     border-bottom: 1px solid var(--border);
 }
+.logo{
+    color: var(--brown);
+    font-size: 30px;
+    letter-spacing:3px;
+}
 
 
