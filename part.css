@@ -9,9 +9,9 @@
     --border:#ead9ca;
 
 }
-header{
-    background-color: var(--cream);
-    padding:23px;
+*{
     margin:0;
-    border-bottom:#a67c53 solid 2px;
+    padding:0;
+    box-sizing:border-box;
 }
+
