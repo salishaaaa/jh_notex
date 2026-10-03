@@ -39,5 +39,10 @@ header{
     font-size: 30px;
     letter-spacing:3px;
 }
+.header-btn{
+    display:flex;
+    align-items:centre;
+    gap:15px;
+}
 
 
