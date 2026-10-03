@@ -1,0 +1,13 @@
+:root{
+    --cream: #fff8ef;
+    --peach: #f7d9c4;
+    --brown: #c9a66b;
+    --darkbrown: #a67c53;
+
+}
+header{
+    background-color: var(--cream);
+    padding:23px;
+    margin:0;
+    border-bottom:#a67c53 solid 2px;
+}
