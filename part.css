@@ -17,4 +17,10 @@
 html{
     scroll-behavior:smooth;
 }
+body{
+    font-family:fantasy;
+    background-color: var(--cream);
+    color: var(--dark-brown);
+    line-height:1.6;
+}
 
