@@ -58,6 +58,10 @@ header{
  .signup:hover{
     background-color: var(--light-peach);
  }
+ .get started{
+    color: var(--white);
+    background-color: var(--brown);
+ }
 
 
 
