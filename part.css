@@ -85,6 +85,12 @@ header{
     letter-spacing: 2px;
     margin-bottom:15px;
  }
+ .cute h2{
+    color: var(--brown);
+    font-size:clamp(50px,8vw,85px);
+    line-height: 1.05;
+    margin-bottom: 25px;
+ }
 
 
 
