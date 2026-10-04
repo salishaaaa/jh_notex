@@ -210,6 +210,12 @@ header{
     color: var(--text);
     line-height: 1.7;
  }
+ .started{
+    padding: 100px 20px;
+    text-align: center;
+    background-color: var(--brown);
+    color: whitesmoke;
+ }
 
 
 
