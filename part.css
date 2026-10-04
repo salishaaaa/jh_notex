@@ -77,6 +77,14 @@ header{
  .cute content{
     max-width: 800px;
  }
+ .small-title
+ .label{
+    color: #a55f3c;
+    font-size:13px;
+    font-weight:bold;
+    letter-spacing: 2px;
+    margin-bottom:15px;
+ }
 
 
 
