@@ -181,7 +181,35 @@ header{
  .feature btn:hover{
     background-color: var(--dark-brown);
  }
-
+ .feature box{
+    display: flex;
+    justify-content: center;
+ }
+ .mini note{
+    width: 330px;
+    min-height: 250px;
+    padding: 30px;
+    background-color: var(--white);
+    border-radius: 14px;
+    border-left: 6px solid var(--peach);
+    box-shadow: 0 8px 25px rgba(80,50,30,0.12);
+    transform: rotate(2deg);
+ }
+ .mini note span{
+    color:#a55f3c ;
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 2px;
+ }
+ .mini note h3{
+    color: var(--brown);
+    font-size: 25px;
+    margin: 18px 0 12px;
+ }
+ .mini note p{
+    color: var(--text);
+    line-height: 1.7;
+ }
 
 
 
