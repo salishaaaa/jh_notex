@@ -145,7 +145,43 @@ header{
     color: var(--text);
     font-size: 17px;
     margin-bottom: 18px;
+}
+   .feature{
+    padding: 100px 7%;
+    background-color: var(--light-peach);
  }
+ .feature content{
+    max-width: 1050px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 70px;
+ }
+ .feature text h2{
+    color: var(--brown);
+    font-size: 42px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+ }
+ .feature text > p:not(.label){
+    color: var(--text);
+    font-size: 17px;
+    margin-bottom: 25px;
+ }
+ .feature btn{
+    display: inline-block;
+    padding: 13px 23px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    color:whitesmoke;
+    background-color: var(--border);
+ }
+ .feature btn:hover{
+    background-color: var(--dark-brown);
+ }
+
 
 
 
