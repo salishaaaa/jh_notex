@@ -54,3 +54,13 @@
     border: 1px solid var(--brown);
     background-color: transparent;
   }
+  .signup:hover{
+    background-color: var(--light-peach);
+  }
+  .get-started{
+    color: var(--white);
+    background-color: var(--dark-brown);
+  }
+  .get-started:hover{
+    background-color:purple;
+  }
