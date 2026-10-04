@@ -17,3 +17,8 @@
     font-size: 32px;
     margin-bottom: 12px;
 }
+.signup-form p{
+    color: #666;
+    margin-bottom: 30px;
+    line-height: 1.5;
+}
