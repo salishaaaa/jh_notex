@@ -65,6 +65,18 @@ header{
  .get started:hover{
     background-color: var(--dark-brown);
  }
+ .cute{
+    min-height:620px;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    text-align:center;
+    padding: 80px 20px;
+    background-color: var(--peach);
+ }
+ .cute content{
+    max
+ }
 
 
 
