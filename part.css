@@ -64,3 +64,41 @@
   .get-started:hover{
     background-color:purple;
   }
+  .cute{
+    min-height: 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 80px 20px;
+    background-color: var(--peach);
+  }
+  .cute content{
+    max-width: 800px;
+  }
+  .small-title,
+  .label{
+    color: #a55f3c;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+  }
+  .cute h2{
+    color: var(--brown);
+    font-size: clamp(50px, 8vw, 85px);
+    line-height: 1.05;
+    margin-bottom: 25px;
+  }
+  .cute text{
+    max-width: 650px;
+    margin: auto;
+    color: #5d4639;
+    font-size: 19px;
+  }
+  .cute buttons{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 35px;
+  }
