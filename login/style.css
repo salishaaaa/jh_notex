@@ -1,0 +1,19 @@
+.sign-page{
+    min-height: calc( 100vh-75px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 20px;
+}
+.signup-form{
+    width: 100%;
+    max-width: 450px;
+    background: rgb(190, 112, 151);
+    padding: 40px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+.signup-form h2{
+    font-size: 32px;
+    margin-bottom: 12px;
+}
