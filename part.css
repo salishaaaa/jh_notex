@@ -126,4 +126,11 @@ header{
  .secondary btn:hover{
     background-color: var(--light-peach);
  }
+ .about{
+    padding: 110px 20px;
+    background-color: var(--cream);
+ }
+ .about content{
+    
+ }
 
