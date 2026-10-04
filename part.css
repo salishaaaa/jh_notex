@@ -97,6 +97,10 @@ header{
     color: #5d4639;
     font-size:19px;
  }
-
-
+ .cute buttons{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+    margin-top:35px;
+ }
 
