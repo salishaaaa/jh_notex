@@ -131,6 +131,9 @@ header{
     background-color: var(--cream);
  }
  .about content{
-    
+    max-width: 850px;
+    margin: auto;
+    text-align: center;
  }
+ 
 
