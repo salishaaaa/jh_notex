@@ -75,7 +75,7 @@ header{
     background-color: var(--peach);
  }
  .cute content{
-    max
+    max-width: 800px;
  }
 
 
