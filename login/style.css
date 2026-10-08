@@ -1,24 +1,6 @@
-.sign-page{
-    min-height: calc( 100vh-75px);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 50px 20px;
-}
-.signup-form{
-    width: 100%;
-    max-width: 450px;
-    background: rgb(190, 112, 151);
-    padding: 40px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-}
-.signup-form h2{
-    font-size: 32px;
-    margin-bottom: 12px;
-}
-.signup-form p{
-    color: #666;
-    margin-bottom: 30px;
-    line-height: 1.5;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial,sans-serif;
 }
