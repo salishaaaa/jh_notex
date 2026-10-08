@@ -65,3 +65,15 @@ circle2{
     margin-bottom: 30px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
+.left h1{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.left h1 span {
+    color: #ffd6f7;
+}
+.left p{
+    line-height: 1.8;
+    color: #fdeaff;
+    font-size: 16px;
+}
