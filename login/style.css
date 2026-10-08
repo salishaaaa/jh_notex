@@ -122,3 +122,8 @@ circle2{
     color: #777;
     margin: 20px 0;
 }
+.terms a{
+    color: #8a2be2;
+    text-decoration: none;
+    font-weight: bold;
+}
