@@ -7,30 +7,70 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>NOTEX</h1>
-        <nav>
-           <a href="index.html" > Home</a>
-           <a href="index.html#about"> About</a>
-        </nav>
-    </header>
-    <main class="signup-page">
-        <div class="signup-form">
-           <h2> CREATE YOUR ACCOUNT</h2>
-            <p> Star t keeping yours ideas organized with NOTEX. </p>
-            <form>
-               <label> Full Name</label>
-               <input type="text" placeholder="enter yours name"> <br>
-               <label> Email</label>
-               <input type="email" placeholder="Enter your email"><br>
-               <label> Password</label>
-               <input type="password" placeholder="create yours strong pasword"><br>
-               <label> Conform password</label>
-               <input type="password" placeholder="Conform your password">
-               <button type="submit"> Create Account</button><br>
-            </form>
-            <a href="index.html" class="back"> Back to Notex</a>
+   <div class="circle1"></div>
+   <div class="circle2"></div>
+   <div class="container">
+    <div class="left">
+        <div class="logo">
+            sign up!
         </div>
-    </main>
+        <h1> 
+            JOIN WITH US
+        </h1>
+        <p> 
+          Create your account and become a part of this website. Discover new possibilitiesand connect with people. 
+        </p>
+    </div>
+    <div class="right">
+        <h2>
+            Create Account
+        </h2>
+        <p class="subtitle">
+            Sign up to get started
+        </p>
+        <form>
+            <div class="input-box">
+                <label>
+                    Full name
+                </label>
+                <input type="text" placeholder="Enter your full name" required>
+            </div>
+            <div class="input-box">
+                <label>
+                    Email Address
+                </label>
+                <input type="email" placeholder="Enter your email" required>
+            </div>
+            <div class="input-box">
+                <label>
+                    Password
+                </label>
+                <input type="password" placeholder="Create a password" required>
+            </div>
+            <div class="input-box">
+                <label>
+                    Confirm Password
+                </label>
+                <input type="password" placeholder="Confirm your password" required>
+            </div>
+            <div class="terms">
+                <input type="checkbox" required>
+                <span>
+                    I agree to
+                    <a href="#">
+                        Terms & Conditions 
+                    </a>
+                </span>
+            </div>
+            <button type="submit" class="signup-btn">
+                Create Account
+            </button>
+        </form>
+        <div class="login">
+            Already have an Account?
+            <a href="#"> Login</a>
+        </div>
+    </div>
+   </div>
 </body>
 </html>
