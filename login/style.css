@@ -47,7 +47,7 @@ circle2{
 .left{
     width: 45%;
     padding: 55px;
-    color: wheat;
+    color: rgb(20, 19, 18);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -123,7 +123,7 @@ circle2{
     margin: 20px 0;
 }
 .terms a{
-    color: #8a2be2;
+    color: #7b549f;
     text-decoration: none;
     font-weight: bold;
 }
